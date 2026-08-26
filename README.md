@@ -1,1 +1,1 @@
-Java, Python, SQL, JS
+Java, Python, SQL, JavaScript
